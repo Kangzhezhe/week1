@@ -1,0 +1,3 @@
+/home/kangzhehao/train/segment/build/CMakeFiles/segmentation.dir
+/home/kangzhehao/train/segment/build/CMakeFiles/edit_cache.dir
+/home/kangzhehao/train/segment/build/CMakeFiles/rebuild_cache.dir
