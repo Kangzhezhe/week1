@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/kangzhehao/train/segment/src/main.cpp" "CMakeFiles/segmentation.dir/src/main.cpp.o" "gcc" "CMakeFiles/segmentation.dir/src/main.cpp.o.d"
-  "/home/kangzhehao/train/segment/src/segment.cpp" "CMakeFiles/segmentation.dir/src/segment.cpp.o" "gcc" "CMakeFiles/segmentation.dir/src/segment.cpp.o.d"
+  "/home/kangzhehao/practice/week1/segment/src/main.cpp" "CMakeFiles/segmentation.dir/src/main.cpp.o" "gcc" "CMakeFiles/segmentation.dir/src/main.cpp.o.d"
+  "/home/kangzhehao/practice/week1/segment/src/segment.cpp" "CMakeFiles/segmentation.dir/src/segment.cpp.o" "gcc" "CMakeFiles/segmentation.dir/src/segment.cpp.o.d"
   )
 
 # Targets to which this target links.

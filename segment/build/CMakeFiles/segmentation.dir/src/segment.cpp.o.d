@@ -1,7 +1,7 @@
 CMakeFiles/segmentation.dir/src/segment.cpp.o: \
- /home/kangzhehao/train/segment/src/segment.cpp \
+ /home/kangzhehao/practice/week1/segment/src/segment.cpp \
  /usr/include/stdc-predef.h \
- /home/kangzhehao/train/segment/src/../include/segment.h \
+ /home/kangzhehao/practice/week1/segment/src/../include/segment.h \
  /usr/local/include/opencv4/opencv2/opencv.hpp \
  /usr/local/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/local/include/opencv4/opencv2/core.hpp \

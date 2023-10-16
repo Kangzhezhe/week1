@@ -1,6 +1,6 @@
 CMakeFiles/segmentation.dir/src/main.cpp.o: \
- /home/kangzhehao/train/segment/src/main.cpp /usr/include/stdc-predef.h \
- /usr/local/include/opencv4/opencv2/opencv.hpp \
+ /home/kangzhehao/practice/week1/segment/src/main.cpp \
+ /usr/include/stdc-predef.h /usr/local/include/opencv4/opencv2/opencv.hpp \
  /usr/local/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/local/include/opencv4/opencv2/core.hpp \
  /usr/local/include/opencv4/opencv2/core/cvdef.h \
@@ -337,4 +337,4 @@ CMakeFiles/segmentation.dir/src/main.cpp.o: \
  /usr/local/include/opencv4/opencv2/video.hpp \
  /usr/local/include/opencv4/opencv2/video/tracking.hpp \
  /usr/local/include/opencv4/opencv2/video/background_segm.hpp \
- /home/kangzhehao/train/segment/src/../include/segment.h
+ /home/kangzhehao/practice/week1/segment/src/../include/segment.h

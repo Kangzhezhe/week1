@@ -20,7 +20,7 @@ int main(int, char**)
 	namedWindow("origin", 0);
 	namedWindow("threshold",0);
 	namedWindow("contours",0);
-        frame = imread("/home/kangzhehao/train/segment/test_img.jpg");
+        frame = imread("/home/kangzhehao/practice/week1/segment/test_img.jpg");
 
         if (!frame.empty()) {
                 // 图像加载成功

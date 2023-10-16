@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/kangzhehao/train/segment/include -isystem /usr/local/include/opencv4
+CXX_INCLUDES = -I/home/kangzhehao/practice/week1/segment/include -isystem /usr/local/include/opencv4
 
 CXX_FLAGS = -std=gnu++11
 

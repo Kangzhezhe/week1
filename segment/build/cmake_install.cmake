@@ -1,4 +1,4 @@
-# Install script for directory: /home/kangzhehao/train/segment
+# Install script for directory: /home/kangzhehao/practice/week1/segment
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/kangzhehao/train/segment/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kangzhehao/practice/week1/segment/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
